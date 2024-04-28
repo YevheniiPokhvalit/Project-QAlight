@@ -1,11 +1,11 @@
 {
-  "name": "Project-QAlight",
+  "name": "project-qalight",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Project-QAlight/",
+    "build": "vite build --base=/project-qalight/",
     "preview": "vite preview"
   },
   "devDependencies": {
